@@ -1,1 +1,1 @@
-# AgriDoc- A complete agricultural based website
+# AgriDoc- A complete agricultural solution based website
